@@ -5,5 +5,3 @@ Recipe:
 1) Add flour
 )2..
 3) blurberries
-1) Add milk
-ddd
